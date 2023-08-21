@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Create project:
+
+```bash
+$ npx create-next-app precedent --example https://github.com/leixwang/nextjs-template.git 
+# or
+$ npx create-next-app precedent --example git@github.com:leixwang/nextjs-template.git
+```
+
 First, run the development server:
 
 ```bash
